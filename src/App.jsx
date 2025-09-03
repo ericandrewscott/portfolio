@@ -52,7 +52,7 @@ const Hero = styled.header`
 
   @media (min-width: 800px) {
     background-position: 98% bottom;
-    background-image: url('/profile.png');
+    background-image: url(${props => props.profileImageUrl});
     background-repeat: no-repeat;
     background-size: 370px auto;
   }
@@ -260,11 +260,12 @@ const ImpactNote = styled.div`
 `;
 
 function App() {
+  const profileImageUrl = `${import.meta.env.BASE_URL}profile.png`;
 
   return (
     <PageWrapper>
       <GlobalStyle />
-      <Hero>
+      <Hero profileImageUrl={profileImageUrl}>
         <Name>Eric Scott</Name>
         <SubtitleWrapper>
           <SubtitleList>
