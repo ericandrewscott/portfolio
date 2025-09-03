@@ -1,4 +1,4 @@
-# Eric Andrew Scott — in brief (not 🩲)
+# Eric Scott — in brief (not 🩲)
 
 Greetings, humans 🧔 and friendly robots 🤖!
 I’m Eric, a UX/Design Engineer who has been happily lost at the intersection of design and code for 18+ years. My natural habitat? Design systems, frontend engineering, and workflow automation. Tools of choice: React, TypeScript, Node.js, GraphQL, and the occasional wizardry with Figma plugins.
