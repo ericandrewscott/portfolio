@@ -283,21 +283,21 @@ function App() {
       </Hero>
       <Container>
         <Section>
+          <h2>Greetings, humans 🧔 and friendly robots 🤖!</h2>
           <p>
-            Greetings, humans 🧔 and friendly robots 🤖!<br />
-            I’m Eric, a UX/Design Engineer who has been happily lost at the intersection of design and code for 18+ years. My natural habitat? Design systems, frontend engineering, and workflow automation. Tools of choice: React, TypeScript, Node.js, GraphQL, and the occasional wizardry with Figma plugins.<br /><br />
-            Recently, I’ve been diving deep into AI-driven design systems—building pipelines that can literally take a spec and spit out usable assets like TypeScript interfaces, CSS stylesheets, or even a Figma plugin that generates ready-to-go component sets. Think: spec → button, with no detours.<br /><br />
-            In short, I’m a bridge-builder: part diplomat (designers &lt;-&gt; engineers), part mad scientist 🧪 (multi-brand ecosystems, semantic markup, build tooling). If it helps teams move faster and keeps frontends looking sharp, chances are I’m already hacking on it.
+            I'm Eric, a UX/Design Engineer who has been happily lost at the intersection of design and code for 18+ years. <strong>My natural habitat?</strong> Design systems, frontend engineering, and workflow automation. <strong>Tools of choice:</strong> React, TypeScript, Node.js, GraphQL, and the occasional wizardry with Figma plugins.<br /><br />
+            Recently, I've been diving deep into AI-driven design systems—building pipelines that can literally take a spec and spit out usable assets like TypeScript interfaces, CSS stylesheets, or even a Figma plugin that generates ready-to-go component sets. Think: spec → button, with no detours.<br /><br />
+            In short, I'm a bridge-builder: part diplomat (designers &lt;-&gt; engineers), part mad scientist 🧪 (multi-brand ecosystems, semantic markup, build tooling). If it helps teams move faster and keeps frontends looking sharp, chances are I'm already hacking on it.
           </p>
         </Section>
         <Section>
           <h2>Skills</h2>
           <ul>
-            <li>Design tooling: Figma plugins, Code Connect, workflow automation, design tokens/variables</li>
-            <li>Frontend systems: React, CSS (esp. Styled Components), TypeScript, Node, GraphQL, Gatsby, React Native</li>
-            <li>Prototyping & Research: Rapid prototyping, UX Labs using eye tracking & sentiment analysis</li>
-            <li>Workflow & Build Tools: pnpm, asdf, SASS/Less</li>
-            <li>Collaboration: Design systems, Cross-functional tooling, Design-to-code workflows</li>
+            <li>🛠️ <strong>Design tooling:</strong> Figma plugins, Code Connect, workflow automation, design tokens/variables</li>
+            <li>👨‍💻 <strong>Frontend systems:</strong> React, CSS (esp. Styled Components), TypeScript, Node, GraphQL, Gatsby, React Native</li>
+            <li>🔍 <strong>Prototyping & Research:</strong> Rapid prototyping, UX Labs using eye tracking & sentiment analysis</li>
+            <li>⚙️ <strong>Workflow & Build Tools:</strong> pnpm, asdf, SASS/Less</li>
+            <li>🤝 <strong>Collaboration:</strong> Design systems, Cross-functional tooling, Design-to-code workflows</li>
           </ul>
         </Section>
         <WorkExperienceSection>
